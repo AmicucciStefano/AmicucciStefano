@@ -25,3 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amicuccistefano&show_icons=true&locale=en&layout=compact" alt="amicuccistefano" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amicuccistefano&show_icons=true&locale=en" alt="amicuccistefano" /></p>
+<p>https://www.codewars.com/users/AmicucciStefano/badges/large</p>
